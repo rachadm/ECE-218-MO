@@ -1,4 +1,7 @@
 # ECE-218-MO
+Project 2
+
+Start of code:
 #include "mbed.h"
 #include "arm_book_lib.h"
 #define DUTY_MIN 0.025
@@ -69,3 +72,4 @@ int main() {
     
     }
 }
+End of Code
